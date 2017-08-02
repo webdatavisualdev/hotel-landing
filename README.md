@@ -1,3 +1,4 @@
 # hotel-landing
 
-## [Demo](https://hotellanding.herokuapp.com/)
+## See Demo
+https://hotellanding.herokuapp.com/
